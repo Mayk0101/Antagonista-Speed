@@ -14,7 +14,7 @@
 
 Antagonista Speed é o optimizer definitivo para quem quer jogar sem distrações. Se você curte games, streams ou simplesmente quer que seu PC rode tudo sem engasgar, essa ferramenta é pra você.
 
-Desenvolvido pelo Grupo Antagonista, ele transforma otimização de PC em algo super simples — sem aquele monte de configurações complicadas. Só ativa, joga e aproveita.
+Ele transforma otimização de PC em algo super simples — sem aquele monte de configurações complicadas. Só ativa, joga e aproveita.
 
 ---
 
@@ -23,7 +23,7 @@ Desenvolvido pelo Grupo Antagonista, ele transforma otimização de PC em algo s
 ### 🎮 Modo Jogo Otimizado
 Um clique e seu PC entra em modo "game mode". CPU dedicada 100% ao jogo, nenhum programa roubando recursos nos bastidores.
 
-### 📊 Plano de Energia Premium
+### 📊 Plano de Energia
 Configurações automáticas para máximo desempenho. Seu FPS fica estável, sem aqueles picos de travamento no meio da partida.
 
 ### 🌐 Otimização de Rede
